@@ -32,6 +32,9 @@ This is a simple implementation of the classic Snake Game developed using AVR mi
 - **Programmer**: USBasp or similar
 
 ---
+## 📷 Screenshots
+![WhatsApp Image 2025-08-06 at 20 13 45_67ee8bb7](https://github.com/user-attachments/assets/75668376-7d99-47aa-98c9-91e624148273)
+
 
 
 ## 🚀 Getting Started
